@@ -1,6 +1,7 @@
 -- =========================================================
 -- KHỞI TẠO CẤU HÌNH VÀ BIẾN
 -- =========================================================
+print("SOLARA SCRIPT LOADED SUCCESSFULLY!")
 local Config = {
     HitboxEnabled = false,
     Range = 15, -- Phạm vi mặc định
